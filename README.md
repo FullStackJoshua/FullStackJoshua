@@ -2,6 +2,7 @@
 <h3 align="center">A passionate and innovative software developer, dedicated to bringing your digital visions to life.</h3>
 
 <h3 align="left">Connect with me:</h3>
+[linkedin](https://www.linkedin.com/in/fullstackjoshua/)
 <p align="left">
 </p>
 
